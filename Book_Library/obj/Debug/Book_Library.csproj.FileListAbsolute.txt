@@ -1,0 +1,14 @@
+c:\users\msi\documents\visual studio 2015\Projects\Book_Library\Book_Library\bin\Debug\Book_Library.exe.config
+c:\users\msi\documents\visual studio 2015\Projects\Book_Library\Book_Library\bin\Debug\Book_Library.exe
+c:\users\msi\documents\visual studio 2015\Projects\Book_Library\Book_Library\bin\Debug\Book_Library.pdb
+c:\users\msi\documents\visual studio 2015\Projects\Book_Library\Book_Library\bin\Debug\Controller.dll
+c:\users\msi\documents\visual studio 2015\Projects\Book_Library\Book_Library\bin\Debug\Model.dll
+c:\users\msi\documents\visual studio 2015\Projects\Book_Library\Book_Library\bin\Debug\Controller.pdb
+c:\users\msi\documents\visual studio 2015\Projects\Book_Library\Book_Library\bin\Debug\Model.pdb
+c:\users\msi\documents\visual studio 2015\Projects\Book_Library\Book_Library\obj\Debug\Book_Library.csprojResolveAssemblyReference.cache
+c:\users\msi\documents\visual studio 2015\Projects\Book_Library\Book_Library\obj\Debug\Book_Library.Login.resources
+c:\users\msi\documents\visual studio 2015\Projects\Book_Library\Book_Library\obj\Debug\Book_Library.Media.resources
+c:\users\msi\documents\visual studio 2015\Projects\Book_Library\Book_Library\obj\Debug\Book_Library.Properties.Resources.resources
+c:\users\msi\documents\visual studio 2015\Projects\Book_Library\Book_Library\obj\Debug\Book_Library.csproj.GenerateResource.Cache
+c:\users\msi\documents\visual studio 2015\Projects\Book_Library\Book_Library\obj\Debug\Book_Library.exe
+c:\users\msi\documents\visual studio 2015\Projects\Book_Library\Book_Library\obj\Debug\Book_Library.pdb

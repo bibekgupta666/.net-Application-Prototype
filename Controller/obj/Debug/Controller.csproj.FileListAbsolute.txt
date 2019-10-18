@@ -1,0 +1,7 @@
+c:\users\msi\documents\visual studio 2015\Projects\Book_Library\Controller\bin\Debug\Controller.dll
+c:\users\msi\documents\visual studio 2015\Projects\Book_Library\Controller\bin\Debug\Controller.pdb
+c:\users\msi\documents\visual studio 2015\Projects\Book_Library\Controller\bin\Debug\Model.dll
+c:\users\msi\documents\visual studio 2015\Projects\Book_Library\Controller\bin\Debug\Model.pdb
+c:\users\msi\documents\visual studio 2015\Projects\Book_Library\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+c:\users\msi\documents\visual studio 2015\Projects\Book_Library\Controller\obj\Debug\Controller.dll
+c:\users\msi\documents\visual studio 2015\Projects\Book_Library\Controller\obj\Debug\Controller.pdb

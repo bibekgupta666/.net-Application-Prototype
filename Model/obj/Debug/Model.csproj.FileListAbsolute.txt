@@ -1,0 +1,6 @@
+c:\users\msi\documents\visual studio 2015\Projects\Book_Library\Model\bin\Debug\Model.dll.config
+c:\users\msi\documents\visual studio 2015\Projects\Book_Library\Model\bin\Debug\Model.dll
+c:\users\msi\documents\visual studio 2015\Projects\Book_Library\Model\bin\Debug\Model.pdb
+c:\users\msi\documents\visual studio 2015\Projects\Book_Library\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\users\msi\documents\visual studio 2015\Projects\Book_Library\Model\obj\Debug\Model.dll
+c:\users\msi\documents\visual studio 2015\Projects\Book_Library\Model\obj\Debug\Model.pdb
